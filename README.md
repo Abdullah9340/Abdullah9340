@@ -14,18 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h1>🔭 I’m currently working on ...</h1>
-- Building websites in Next.js 🔨 <br />
-- SQL databases such as MySQL and PostgreSQL 🧬 <br />
-- Discord.py 🤖 <br />
+
+- Building websites in Next.js 🔨
+- SQL databases such as MySQL and PostgreSQL 🧬 
+- Discord.py 🤖 
 
 <h1>🌱 I’m currently learning ... </h1>
-- Data structures and algorithims 📰 <br />
-- AWS and other cloud services ☁️ <br />
+
+- Data structures and algorithims 📰 
+- AWS and other cloud services ☁️
 
 <h1>My Stats</h1>
+
 [![Abdullahs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah9340&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1>Language Usage</h1>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
