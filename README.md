@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <h1>🔭 I’m currently working on ...</h1>
 
-- Building websites in Next.js 🔨
-- SQL databases such as MySQL and PostgreSQL 🧬 
-- Discord.py 🤖 
+- Developing mobile applications through React Native 📱
+- Exploring prediction/AI models through Scikit Learn and Python 🤖
+- Hosting applications on GCP ☁️
 
 <h1>🌱 I’m currently learning ... </h1>
 
